@@ -1,0 +1,15 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 0;
+
+    width: 100vw;
+    min-height: 50px;
+
+    background-color: black;
+    color: white;
+    font-family: monospace;
+    font-size: 18px;
+}

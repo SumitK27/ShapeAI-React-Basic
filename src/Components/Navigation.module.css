@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+}
+
+.NavBar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    color: #ffffff;
+    background-color: #000000;
+
+    min-height: 75px;
+    padding: 0 1rem;
+}
+
+.NavBarBrand {
+    font-family: monospace;
+    font-size: 28px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.NavBarItems {
+    display: flex;
+    font-family: monospace;
+    font-size: 22px;
+}
+
+.NavBarItem {
+    padding: 0 0.5rem;
+    color: #ffffff;
+    text-decoration: none;
+}
